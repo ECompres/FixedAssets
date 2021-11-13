@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedAssetsAPI", "FixedAssetsAPI\FixedAssetsAPI.csproj", "{C0ACDED6-3ACA-412D-81D0-764E959457BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ACDED6-3ACA-412D-81D0-764E959457BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ACDED6-3ACA-412D-81D0-764E959457BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ACDED6-3ACA-412D-81D0-764E959457BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ACDED6-3ACA-412D-81D0-764E959457BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC0D1ED-DAC5-43FA-B947-CE07EA9CD485}
+	EndGlobalSection
+EndGlobal
